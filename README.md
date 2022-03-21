@@ -1,5 +1,5 @@
 # Machine-Learning-for-Physics
-### Submissions for 3rd Module
+### Submissions for 3rd Year Module
 
 Week1 - Basic ML: Curve Fitting
 
@@ -10,3 +10,5 @@ Week3 - Identifying MNIST Images
 Week4 - Autoencoders, Convolutional Neural Networks
 
 Week5 - Unsupervised Dimensionality Reduction: PCA, tSNE
+
+Week6 - Long Short-Term Memory
